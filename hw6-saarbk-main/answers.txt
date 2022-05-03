@@ -1,0 +1,18 @@
+ 1.
+ public void push method will not stand with inv
+ for example :
+   o=null
+
+ its can be fix by adding :
+ @pre o!=null
+
+ 2 .
+ public boolean isEmpty have incorrect @post statement
+ for example:
+ elment.size==1 return @return false insted of true
+
+ its can be fix by changing :
+ @post @return == false iff elements.size() > 0
+
+3.
+all other method is fine

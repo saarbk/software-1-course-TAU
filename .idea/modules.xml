@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hw1-saarbk-main/hw1-saarbk-main.iml" filepath="$PROJECT_DIR$/hw1-saarbk-main/hw1-saarbk-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw2-saarbk-main/hw2-saarbk-main.iml" filepath="$PROJECT_DIR$/hw2-saarbk-main/hw2-saarbk-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw3-saarbk-main/hw3-saarbk-main.iml" filepath="$PROJECT_DIR$/hw3-saarbk-main/hw3-saarbk-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw4-saarbk-main/hw4-saarbk-main.iml" filepath="$PROJECT_DIR$/hw4-saarbk-main/hw4-saarbk-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw5-saarbk-main/hw5-saarbk-main.iml" filepath="$PROJECT_DIR$/hw5-saarbk-main/hw5-saarbk-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw7-saarbk-main/hw7-saarbk-main.iml" filepath="$PROJECT_DIR$/hw7-saarbk-main/hw7-saarbk-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw8-saarbk-main/hw8-saarbk-main.iml" filepath="$PROJECT_DIR$/hw8-saarbk-main/hw8-saarbk-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw9-saarbk-main/hw9-saarbk-main.iml" filepath="$PROJECT_DIR$/hw9-saarbk-main/hw9-saarbk-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw6-saarbk-main/partsA-C/partsA-C.iml" filepath="$PROJECT_DIR$/hw6-saarbk-main/partsA-C/partsA-C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw6-saarbk-main/riddles/riddles.iml" filepath="$PROJECT_DIR$/hw6-saarbk-main/riddles/riddles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/software-1-course-TAU.iml" filepath="$PROJECT_DIR$/.idea/software-1-course-TAU.iml" />
+    </modules>
+  </component>
+</project>
